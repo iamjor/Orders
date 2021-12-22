@@ -1,5 +1,10 @@
 <?php
-/** Order_model gets all the data from the database. */
+/**
+ * Author: Jomar Oliver Reyes
+ * Author URL: https://www.jomaroliverreyes.com
+*/
+
+// Order_model gets all the data from the database.
 class order_model extends CI_Model{
 	
 	public function __construct(){

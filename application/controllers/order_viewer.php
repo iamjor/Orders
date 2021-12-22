@@ -1,5 +1,10 @@
 <?php
-/** Order_viewer controller class loads the order_helper and order_model so that their methods and data can be used for the order_viewer page. */
+/**
+ * Author: Jomar Oliver Reyes
+ * Author URL: https://www.jomaroliverreyes.com
+*/
+
+// Order_viewer controller class loads the order_helper and order_model so that their methods and data can be used for the order_viewer page.
 class order_viewer extends CI_Controller{
 	
 	public function __construct(){
